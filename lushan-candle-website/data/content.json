@@ -1,0 +1,290 @@
+{
+  "zh": {
+    "nav": {
+      "brand": "品牌故事",
+      "value": "产品价值",
+      "materials": "原料详情",
+      "products": "产品系列",
+      "contact": "联系方式"
+    },
+    "brand": {
+      "slide1": {
+        "title": "Lvshan Tradition<br>闾山文化",
+        "subtitle": "以物载道 · 赠礼臻选",
+        "description": ""
+      },
+      "slide2": {
+        "title": "千年传承",
+        "origin": "发源地",
+        "originText": "中国福建武夷山脉",
+        "history": "历史起源",
+        "historyText": "唐代(公元713-741年)",
+        "heritage": "传承时间",
+        "heritageText": "1300余年"
+      },
+      "slide3": {
+        "title": "文化融合",
+        "feature1": "融合正统道教修行",
+        "feature2": "闽越巫傩文化",
+        "feature3": "省级非物质文化遗产"
+      },
+      "slide4": {
+        "title": "道家生活美学",
+        "text": "将千年修行智慧凝练于日用之物"
+      },
+      "slide5": {
+        "title": "臻选之礼",
+        "audience1": "重视文化传承的友人",
+        "audience2": "追求心灵宁静的修行者",
+        "audience3": "喜爱东方美学的收藏家",
+        "audience4": "新居/节庆的祝福礼物"
+      }
+    },
+    "value": {
+      "title": "产品价值",
+      "subtitle": "传统文化工艺品",
+      "craftsmanship": "匠心手造",
+      "meaning": "艺术价值与精神寓意",
+      "material1": "天然植物蜡(大豆蜡)",
+      "material2": "玻璃容器",
+      "material3": "其他天然原料"
+    },
+    "materials": {
+      "title": "原料详情",
+      "talisman": {
+        "title": "符箓",
+        "description": "每张符箓均由师父亲手破秽加持，手工制作后封入蜡烛之中"
+      },
+      "soy": {
+        "title": "大豆蜡",
+        "description": "天然植物蜡，环保健康，燃烧时间长"
+      },
+      "glass": {
+        "title": "玻璃容器",
+        "description": "精选优质玻璃，透明纯净，可重复使用"
+      },
+      "fragrance": {
+        "title": "天然香料",
+        "description": "精选天然植物香料，温和不刺激"
+      },
+      "wick": {
+        "title": "棉芯",
+        "description": "纯棉芯，燃烧稳定，无黑烟"
+      }
+    },
+    "products": {
+      "title": "产品系列",
+      "toggleScenarios": "查看使用场景",
+      "hideScenarios": "收起场景",
+      "scenariosTitle": "使用场景",
+      "treasure": {
+        "name": "闾山财源聚宝烛",
+        "nameEn": "Treasure Trove Candle",
+        "series": "招财系列",
+        "feature": "符箓随烛火渐次展现，寓意「福随光至」",
+        "scenario1": "招财纳福",
+        "scenario2": "生活仪式感"
+      },
+      "zen": {
+        "name": "闾山净秽烛",
+        "nameEn": "Zen Aura Candle",
+        "series": "净化磁场系列",
+        "feature": "驱浊扬清，澄明心域",
+        "scenario1": "久未通风的居室",
+        "scenario2": "争执后的情绪残留",
+        "scenario3": "办公区域净化",
+        "scenario4": "不安的深夜",
+        "scenario5": "酒店房间净化"
+      },
+      "soulmate": {
+        "name": "闾山缘合烛",
+        "nameEn": "Soulmate Spark Candle",
+        "series": "招桃花系列",
+        "feature": "招桃引缘，灵犀牵情",
+        "scenario1": "单身渴望陪伴",
+        "scenario2": "社交圈狭窄",
+        "scenario3": "约会前提升气场",
+        "scenario4": "新房布置祈愿良缘"
+      },
+      "guardian": {
+        "name": "闾山辅运烛",
+        "nameEn": "Guardian Path Candle",
+        "series": "招贵人系列",
+        "feature": "招贵引贤，鸿途助力",
+        "scenario1": "事业瓶颈",
+        "scenario2": "创业初期",
+        "scenario3": "求职面试",
+        "scenario4": "人际困扰",
+        "scenario5": "重要决策"
+      },
+      "giftbox": {
+        "title": "闾山祈愿烛礼盒套装",
+        "titleEn": "Lvshan Fengshui Candle Grand Set",
+        "description": "精选四款经典蜡烛，匠心礼盒包装。传承千年道家文化，融合现代生活美学。适合自用或馈赠亲友，是节庆、乔迁、开业的上佳之选。",
+        "feature1": "四款经典蜡烛组合",
+        "feature2": "精美礼盒包装",
+        "feature3": "附赠使用指南",
+        "feature4": "高端礼品之选"
+      },
+      "consultation": {
+        "title": "详细优惠信息请咨询",
+        "description": "了解更多产品详情、优惠活动及定制服务。联系邮箱：lvshan.customerservice@gmail.com",
+        "button": "立即购买"
+      },
+      "disclaimer": "本产品为传统文化工艺品，其艺术价值与精神寓意更胜实用功效"
+    },
+    "contact": {
+      "title": "联系方式",
+      "email": "邮箱",
+      "wechat": "微信",
+      "wechatId": "lvshan_official",
+      "instagram": "Instagram",
+      "service": "客服",
+      "serviceText": "在线客服咨询"
+    }
+  },
+  "en": {
+    "nav": {
+      "brand": "Brand Story",
+      "value": "Product Value",
+      "materials": "Materials",
+      "products": "Products",
+      "contact": "Contact"
+    },
+    "brand": {
+      "slide1": {
+        "title": "LVSHAN TRADITION",
+        "subtitle": "The Aesthetics of Taoist Living",
+        "description": ""
+      },
+      "slide2": {
+        "title": "Special Prayer Rituals",
+        "origin": "Origin",
+        "originText": "Wuyi Mountains, Fujian, China",
+        "history": "Historical Origin",
+        "historyText": "Tang Dynasty (713-741 AD)",
+        "heritage": "Heritage",
+        "heritageText": "Over 1300 Years"
+      },
+      "slide3": {
+        "title": "Cultural Fusion",
+        "feature1": "Orthodox Taoist Practice",
+        "feature2": "Minyue Shamanic Culture",
+        "feature3": "Provincial Intangible Cultural Heritage"
+      },
+      "slide4": {
+        "title": "Taoist Living Aesthetics",
+        "text": "Distilling millennia of cultivation wisdom into everyday objects"
+      },
+      "slide5": {
+        "title": "Gifts of Excellence",
+        "audience1": "Cultural tradition enthusiasts",
+        "audience2": "Meditation practitioners",
+        "audience3": "Oriental aesthetics collectors",
+        "audience4": "Blessing gifts for new homes/festivals"
+      }
+    },
+    "value": {
+      "title": "Product Value",
+      "subtitle": "Traditional Cultural Crafts",
+      "craftsmanship": "Handcrafted with Care",
+      "meaning": "Artistic Value & Spiritual Significance",
+      "material1": "Natural Soy Wax",
+      "material2": "Glass Container",
+      "material3": "Other Natural Materials"
+    },
+    "materials": {
+      "title": "Materials",
+      "talisman": {
+        "title": "Fulu",
+        "description": "Each fulu talisman is personally purified and blessed by the master, handcrafted and sealed within the candle"
+      },
+      "soy": {
+        "title": "Soy Wax",
+        "description": "Natural plant-based wax, eco-friendly and healthy, with long burning time"
+      },
+      "glass": {
+        "title": "Glass Container",
+        "description": "Premium glass, transparent and pure, reusable"
+      },
+      "fragrance": {
+        "title": "Natural Fragrance",
+        "description": "Selected natural plant fragrances, gentle and non-irritating"
+      },
+      "wick": {
+        "title": "Cotton Wick",
+        "description": "Pure cotton wick, stable burning, no black smoke"
+      }
+    },
+    "products": {
+      "title": "Product Series",
+      "toggleScenarios": "View Scenarios",
+      "hideScenarios": "Hide Scenarios",
+      "scenariosTitle": "Usage Scenarios",
+      "treasure": {
+        "name": "Treasure Trove Candle",
+        "nameEn": "闾山财源聚宝烛",
+        "series": "Wealth Attraction Series",
+        "feature": "Talismans are gradually revealed by candlelight, symbolizing 'Fortune Follows Light'",
+        "scenario1": "Attracting wealth and blessings",
+        "scenario2": "Creating ritual moments in life"
+      },
+      "zen": {
+        "name": "Zen Aura Candle",
+        "nameEn": "闾山净秽烛",
+        "series": "Energy Purification Series",
+        "feature": "Dispelling turbidity, clarifying the mind",
+        "scenario1": "Poorly ventilated rooms",
+        "scenario2": "Emotional residue after conflicts",
+        "scenario3": "Office space purification",
+        "scenario4": "Restless nights",
+        "scenario5": "Hotel room purification"
+      },
+      "soulmate": {
+        "name": "Soulmate Spark Candle",
+        "nameEn": "闾山缘合烛",
+        "series": "Romance Attraction Series",
+        "feature": "Attracting connections, enhancing affinity",
+        "scenario1": "Singles seeking companionship",
+        "scenario2": "Limited social circles",
+        "scenario3": "Enhancing aura before dates",
+        "scenario4": "New home setup for good relationships"
+      },
+      "guardian": {
+        "name": "Guardian Path Candle",
+        "nameEn": "闾山辅运烛",
+        "series": "Mentor Attraction Series",
+        "feature": "Attracting mentors, empowering career",
+        "scenario1": "Career bottlenecks",
+        "scenario2": "Early entrepreneurship",
+        "scenario3": "Job interviews",
+        "scenario4": "Interpersonal challenges",
+        "scenario5": "Important decisions"
+      },
+      "giftbox": {
+        "title": "Lvshan Fengshui Candle Grand Set",
+        "titleEn": "闾山祈愿烛礼盒套装",
+        "description": "Four classic candles in exquisite gift box packaging. Inheriting thousand-year-old Taoist culture while blending modern living aesthetics. Perfect for personal use or gifting, ideal for festivals, housewarming, and business openings.",
+        "feature1": "Four classic candle collection",
+        "feature2": "Exquisite gift box packaging",
+        "feature3": "Usage guide included",
+        "feature4": "Premium gift choice"
+      },
+      "consultation": {
+        "title": "Contact us for full details",
+        "description": "Learn more about product details, promotions, and customization services. Email: lvshan.customerservice@gmail.com",
+        "button": "Buy Now"
+      },
+      "disclaimer": "This product is a traditional cultural craft; its artistic value and spiritual significance surpass its practical effects"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "email": "Email",
+      "wechat": "WeChat",
+      "wechatId": "lvshan_official",
+      "instagram": "Instagram",
+      "service": "Customer Service",
+      "serviceText": "Online Customer Support"
+    }
+  }
+}
